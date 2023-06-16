@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686891290 source:m:\c++ programms\ask_me_v1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<fstream>
+	<sstream>
+	<assert.h>
+
